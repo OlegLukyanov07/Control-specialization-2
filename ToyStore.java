@@ -47,7 +47,7 @@ public class ToyStore {
             } catch (IOException e) {
                 System.out.println("Ошибка при записи в файл игрушки");
             }
-
+            
             return prizeToy;
         } else {
             System.out.println("Все игрушки закончились");
