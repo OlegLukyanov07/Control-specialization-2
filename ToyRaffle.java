@@ -16,7 +16,6 @@ public class ToyRaffle {
         store.addToy(toy5);
         store.addToy(toy6);
 
-
         store.changeToyFrequency(1, 30);
 
         store.organizeRaffle();
